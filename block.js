@@ -45,7 +45,7 @@ class Box{
   score() {
     if(this.visibility<0 && this.visibility>-105) {
          // score = score+1
-          scoregame++;
+          //scoregame++;
         
           //console.log(score)
     }
